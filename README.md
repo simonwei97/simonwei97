@@ -1,33 +1,33 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Willem97&show_icons=true" alt="Andy's github stats" />
+
 
 ### Hi there 👋
 
-I'm Simon Wei. 
+### Languages I use
 
-- 🔭 I’m currently work at SenseTime as SDE.
-- 🌱 I’m Gopher.
+<p>
+  <img alt="Golang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" />
+</p>
+
+### Stats
+
+<p>
+  <img height="160" alt="simonwei97's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=simonwei97&show_icons=true&theme=algolia" />
+  <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonwei97&show_icons=true&theme=algolia&layout=compact" />
+</p>
 
 **Interested In**
 
-[![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)](https://kubernetes.io/)
-[![](https://img.shields.io/badge/Serverless-black?style=flat&logo=Serverless&logoColor=fd5750)](https://www.serverless.com)
+<p>
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=white" />
+</p>
 
 **Tool**
-[![](https://img.shields.io/badge/CodeTool-VS%20Code-blue?style=flat&logo=visualstudiocode)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/macOS-MackBookPro-black?style=flat&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
 
-
-<!--
-**simonwei97/simonwei97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-002C66?style=flat-square&logo=Docker&logoColor=white" />
+</p>
