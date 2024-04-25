@@ -9,11 +9,11 @@
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" />
 </p>
 
-### Frames
+### Framework
 
 <p>
-  <img alt="Helm Chart" src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=Helm&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
+  <img alt="Helm Chart" src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=Helm&logoColor=white" />
 </p>
 
 ### Stats
