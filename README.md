@@ -1,42 +1,25 @@
 
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-### Languages I use
+I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.sensetime.com/">SenseTime</a></strong>.
 
-<p>
-  <img alt="Golang" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white" />
+<h2>🚀 Language I Use</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" width="50" height="50" />
 </p>
 
-### Framework
-
-<p>
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white" />
-  <img alt="Helm Chart" src="https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=Helm&logoColor=white" />
+<h2>👨‍💻 Tool I Use</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
 </p>
 
-### Stats
-
+<h2>Stats</h2>
 <p>
   <img height="160" alt="simonwei97's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=simonwei97&show_icons=true&theme=algolia" />
 <!--   <img height="160" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonwei97&show_icons=true&theme=algolia&layout=compact" /> -->
-</p>
-
-### Interested In
-
-<p>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white" />
-  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=Serverless&logoColor=white" />
-  <img alt="Istio" src="https://img.shields.io/badge/-Istio-466BB0?style=flat&logo=Istio&logoColor=white" />
-  <img alt="Milvus" src="https://img.shields.io/badge/-Milvus-00A1EA?style=flat&logo=Milvus&logoColor=white" />
-</p>
-
-### Tool
-
-<p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-002C66?style=flat&logo=Docker&logoColor=white" />
-  <img alt="Iterm2" src="https://img.shields.io/badge/-Iterm2-000000?style=flat&logo=Iterm2&logoColor=white" />
 </p>
