@@ -3,7 +3,6 @@
 
 I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.sensetime.com/">SenseTime</a></strong>.
 
-![](https://komarev.com/ghpvc/?username=simonwei97&abbreviated=true)
 
 <hr>
 <h2 align="center">🚀 Languages & Frameworks & 🔨 Tools & Abilities </h2>
@@ -15,11 +14,13 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="50" /></code>
-<code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="50" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastApi" height="50" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" height="50" /></code>
 <code><img src="icons/vscode.svg" alt="VS Code" height="50" /></code>
-<code><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="Apple" height="30" /></code>
+<code><img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" /></code>
+<code><img src="icons/LlamaIndex.svg" alt="LlamaIndex" height="50" /></code>
 </p>
 <hr>
 
