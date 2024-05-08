@@ -3,8 +3,10 @@
 
 I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.sensetime.com/">SenseTime</a></strong>.
 
+![](https://komarev.com/ghpvc/?username=simonwei97&abbreviated=true)
+
 <hr>
-<h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
+<h2 align="center">🚀 Languages & Frameworks & 🔨 Tools & Abilities </h2>
 <br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="50" />
@@ -20,7 +22,7 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 </p>
 <hr>
 
-<h2 align="center">🔥 Github Stats 🔥</h2>
+<h2 align="center">🔥 Github Stats </h2>
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonwei97&show_icons=true&hide_border=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwei97&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
