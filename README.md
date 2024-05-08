@@ -12,6 +12,7 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" /></code>
+<code><img src="icons/TiDB_original.svg" alt="TiDB" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" /></code>
