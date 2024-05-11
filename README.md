@@ -19,7 +19,7 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 </p>
 
 <h2>🔥 Github Stats </h2>
-<p> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simonwei97&theme=dracula&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwei97&exclude_repo=knowledgebase&theme=dracula&layout=compact&langs_count=8"/>
-</p>
+
+![simonwei97's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonwei97\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![simonwei97's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonwei97\&layout=compact)
