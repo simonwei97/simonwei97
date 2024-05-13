@@ -20,6 +20,8 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 <h2>🔥 Github Stats </h2>
 
+![](https://github-profile-trophy.vercel.app/?username=simonwei97&margin-w=15&theme=monokai)
+
 ![simonwei97's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonwei97\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![simonwei97's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonwei97)
