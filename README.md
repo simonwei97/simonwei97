@@ -1,9 +1,13 @@
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hey! Nice to see you.
+<!--  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.-->
 
 I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.sensetime.com/">SenseTime</a></strong>.
 
 <hr>
+
+- Emoji Search: https://emojifinder.com/
+- Emoji Animation: https://googlefonts.github.io/noto-emoji-animation/
 
 ## 🧑‍💻️ Languages 
 
