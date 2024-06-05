@@ -5,20 +5,23 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 <hr>
 
-## 🚀 Languages & Frameworks & 🔨 Tools & Abilities
+## 🧑‍💻️ Languages 
 
 ![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,rust,latex,md,git&theme=dark)
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,grafana,docker,kubernetes,pytorch,fastapi&theme=dark) <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
+## 🚀 Frameworks & Abilities
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,matlab,notion,postman,bash,vim,apple,linux&theme=dark)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,grafana,docker,kubernetes,pytorch,fastapi&theme=dark)  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />  <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
 
 <p> 
-  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />&nbsp&nbsp<img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />&nbsp&nbsp
+  <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
   <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp
   <img src="icons/LlamaIndex.svg" alt="LlamaIndex" height="50" />&nbsp&nbsp
 </p>
 
+## 🔨 Tools 
+
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,notion,postman,bash,vim,apple,linux,matlab&theme=dark)
 
 ## Streak
 
