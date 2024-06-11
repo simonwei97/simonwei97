@@ -15,13 +15,15 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,grafana,docker,kubernetes,pytorch,fastapi&theme=dark)  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />  <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,grafana,docker,kubernetes,pytorch,fastapi,langchain&theme=dark)  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />  <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
 
 <p> 
   <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp
   <img src="icons/LlamaIndex.svg" alt="LlamaIndex" height="50" />&nbsp&nbsp
 </p>
+
+<!-- <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp-->
+
 
 ## 🔨 Tools 
 
