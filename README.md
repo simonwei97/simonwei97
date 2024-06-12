@@ -11,13 +11,17 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 ## 🧑‍💻️ Languages 
 
-![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,rust,latex,md,git&theme=dark)
+![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,latex,md,git&theme=dark)
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,grafana,docker,kubernetes,pytorch,fastapi,langchain&theme=dark)  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />  <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,promethues,grafana,pytorch,fastapi,langchain&theme=dark)  
+
+![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
 
 <p> 
+  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />
+  <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
   <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
   <img src="icons/LlamaIndex.svg" alt="LlamaIndex" height="50" />&nbsp&nbsp
 </p>
