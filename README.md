@@ -8,19 +8,19 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 - Emoji Search: https://emojifinder.com/
 - Emoji Animation: https://googlefonts.github.io/noto-emoji-animation/
+- Skill Icon: https://github.com/LelouchFR/skill-icons
 
 ## 🧑‍💻️ Languages 
 
-![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,latex,md,git&theme=dark)
+![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,latex,md&theme=dark)
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,redis,kafka,promethues,grafana,pytorch,fastapi,langchain&theme=dark)  
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain&theme=dark)  
 
 ![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
 
 <p> 
-  <img src="icons/TiDB_original.svg" alt="TiDB" height="50" />
   <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
   <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
   <img src="icons/LlamaIndex.svg" alt="LlamaIndex" height="50" />&nbsp&nbsp
@@ -31,7 +31,7 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 ## 🔨 Tools 
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=vscode,notion,postman,bash,vim,apple,linux,matlab&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,ollama,notion,postman,bash,vim,apple,linux&theme=dark)
 
 ## Streak
 
