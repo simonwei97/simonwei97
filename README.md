@@ -6,6 +6,12 @@ I'm Xiaopeng. I'm currently a software engineer at <strong><a href="https://www.
 
 <hr>
 
+Here are my blog collections:
+- [Tech Blog](http://simonwei97.github.io/hugo-blog)
+- [Knowledgebase](https://simonwei97.github.io/knowledgebase/)
+
+<hr>
+
 - Emoji Search: https://emojifinder.com/
 - Emoji Animation: https://googlefonts.github.io/noto-emoji-animation/
 - Skill Icon: https://github.com/LelouchFR/skill-icons
