@@ -22,14 +22,13 @@ Here are my blog collections:
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain&theme=dark)  
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain,llamaindex&theme=dark)  
 
 ![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
 
 <p> 
   <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
   <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
-  <img src="icons/LlamaIndex.svg" alt="LlamaIndex" height="50" />&nbsp&nbsp
 </p>
 
 <!-- <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp-->
@@ -37,7 +36,7 @@ Here are my blog collections:
 
 ## 🔨 Tools 
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,ollama,notion,postman,bash,vim,apple,linux&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,ollama,notion,postman,bash,vim,apple,linux,hugo,huggingface&theme=dark)
 
 ## Streak
 
