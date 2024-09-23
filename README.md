@@ -2,7 +2,7 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hey! Nice to see you.
 <!--  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.-->
 
-I'm Xiaopeng. I'm working as a **SDE** in 🇨🇳.
+I'm Xiaopeng. I'm working as a **SDE** in China 🇨🇳.
 
 <hr>
 
@@ -22,12 +22,11 @@ Here are my blog collections:
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain,llamaindex&theme=dark)  
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain,llamaindex,milvus&theme=dark)  
 
 ![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
 
 <p> 
-  <img src="icons/milvus-stacked-color.svg" alt="Milvus" height="50" />
   <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
 </p>
 
