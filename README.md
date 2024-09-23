@@ -1,8 +1,6 @@
-
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hey! Nice to see you.
+<h3 align="center"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Xiaopeng </h3>
+<p align="center">I'm a backend dev from China 🇨🇳.</p>
 <!--  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.-->
-
-I'm Xiaopeng. I'm working as a **SDE** in China 🇨🇳.
 
 <hr>
 
@@ -12,6 +10,7 @@ Here are my blog collections:
 
 <hr>
 
+Misc:
 - Emoji Search: https://emojifinder.com/
 - Emoji Animation: https://googlefonts.github.io/noto-emoji-animation/
 - Skill Icon: https://github.com/LelouchFR/skill-icons
