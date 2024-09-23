@@ -26,10 +26,6 @@ Here are my blog collections:
 
 ![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
 
-<p> 
-  <img src="icons/grpc-logo.svg" alt="gRPC" height="50" />
-</p>
-
 <!-- <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp-->
 
 
