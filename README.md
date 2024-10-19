@@ -21,7 +21,7 @@ Misc:
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain,llamaindex,milvus&theme=dark)  
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain,llamaindex,milvus,grpc&theme=dark)  
 
 ![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
 
