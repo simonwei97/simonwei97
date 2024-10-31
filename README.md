@@ -1,16 +1,11 @@
-<h3 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Xiaopeng </h3>
-<p align="left">I'm a backend dev from China 🇨🇳.</p>
-<!--  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.-->
+<img align="right" src="https://komarev.com/ghpvc/?username=simonwe97" alt="simonwe97" />
+
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Xiaopeng </h2>
+
+I’m currently a **Software Engineer** at Sensetime.
 
 - [Tech Blog](http://simonwei97.github.io/hugo-blog)
 - [Knowledgebase](https://simonwei97.github.io/knowledgebase/)
-
-<hr>
-
-Misc:
-- Emoji Search: https://emojifinder.com/
-- Emoji Animation: https://googlefonts.github.io/noto-emoji-animation/
-- Skill Icon: https://github.com/LelouchFR/skill-icons
 
 ## 🧑‍💻️ Languages 
 
