@@ -1,10 +1,7 @@
-<h3 align="center"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Xiaopeng </h3>
-<p align="center">I'm a backend dev from China 🇨🇳.</p>
+<h3 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Xiaopeng </h3>
+<p align="left">I'm a backend dev from China 🇨🇳.</p>
 <!--  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.-->
 
-<hr>
-
-Here are my blog collections:
 - [Tech Blog](http://simonwei97.github.io/hugo-blog)
 - [Knowledgebase](https://simonwei97.github.io/knowledgebase/)
 
