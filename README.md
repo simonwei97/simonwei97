@@ -21,16 +21,24 @@ Misc:
 
 ## 🚀 Frameworks & Abilities
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=mysql,tidb,redis,kafka,prometheus,grafana,pytorch,fastapi,langchain,llamaindex,milvus,grpc&theme=dark)  
+![DB](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,tidb,redis,milvus&theme=dark)  
 
-![CNCF](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark)  
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=kafka,prometheus,grafana,fastapi,grpc,hugo,jekyll&theme=dark)  
+
+![Cloud](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark) 
+
+## 🤖 AI
+
+![AI](https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,ollama,huggingface,chatgpt,pytorch&theme=dark)  
 
 <!-- <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp-->
 
 
-## 🔨 Tools 
+## 🔨 Dev Tools 
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,ollama,notion,postman,bash,vim,apple,linux,hugo,huggingface&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,notion,postman,bash,vim&theme=dark)
+
+![OS](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,ubuntu&theme=dark)
 
 ## Streak
 
