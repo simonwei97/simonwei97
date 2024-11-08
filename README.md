@@ -4,6 +4,7 @@
 
 I’m currently a **Software Engineer** at Sensetime.
 
+Misc:
 - [Tech Blog](http://simonwei97.github.io/hugo-blog)
 - [Knowledgebase](https://simonwei97.github.io/knowledgebase/)
 
@@ -13,24 +14,16 @@ I’m currently a **Software Engineer** at Sensetime.
 
 ## 🚀 Frameworks & Abilities
 
-![DB](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,tidb,redis,milvus&theme=dark)  
-
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=kafka,prometheus,grafana,fastapi,grpc,hugo,jekyll&theme=dark)  
-
-![Cloud](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,helm&theme=dark) 
+![](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,tidb,redis,milvus,kafka,prometheus,grafana,fastapi,grpc,hugo,jekyll,docker,kubernetes,helm&theme=dark) 
 
 ## 🤖 AI
 
 ![AI](https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,ollama,huggingface,chatgpt,pytorch&theme=dark)  
 
-<!-- <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="LangChain AI" height="50" />&nbsp&nbsp-->
-
 
 ## 🔨 Dev Tools 
 
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,notion,postman,bash,vim&theme=dark)
-
-![OS](https://go-skill-icons.vercel.app/api/icons?i=apple,linux,ubuntu&theme=dark)
+![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,notion,postman,bash,vim,apple,linux,ubuntu,windows&theme=dark)
 
 ## Streak
 
