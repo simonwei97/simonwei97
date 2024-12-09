@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=simonwe97" alt="simonwe97" />
 
-<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Xiaopeng </h2>
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Simon Wei </h2>
 
 I’m currently a **Software Engineer** at Sensetime.
 
@@ -29,17 +29,13 @@ Misc:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=simonwei97)](https://git.io/streak-stats)
 
-## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=simonwei97&theme=onedark&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🔥 Github Stats
 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=simonwei97&show_icons=true&theme=gotham&count_private=true" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonwei97&layout=compact&show_icons=true&theme=gotham" /> -->
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=simonwei97&show_icons=true&theme=ambient_gradient&count_private=true" />
 </div>
 
-<!--![simonwei97's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonwei97&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)-->
+## 🏆 GitHub Trophy
 
-<!--![simonwei97's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=simonwei97) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=simonwei97&theme=ambient_gradient&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
