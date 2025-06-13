@@ -2,7 +2,7 @@
 
 <h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Simon Wei </h2>
 
-I’m currently a **Software Engineer** at Sensetime.
+I’m currently a **Senior Software Development Engineer** at Alibaba-Amap.
 
 Misc:
 - [Tech Blog](http://simonwei97.github.io/hugo-blog)
