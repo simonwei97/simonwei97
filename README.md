@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=simonwe97" alt="simonwe97" />
 
-<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Simon Wei </h2>
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Simon Wei. </h2>
 
 I’m currently a **Senior Software Development Engineer** at Alibaba-Amap.
 
@@ -8,26 +8,11 @@ Misc:
 - [Tech Blog](http://simonwei97.github.io/hugo-blog)
 - [Knowledgebase](https://simonwei97.github.io/knowledgebase/)
 
-## 🧑‍💻️ Languages 
+## 🧑‍💻️ Languages | 🚀 Frameworks & Abilities | 🤖 AI | 🔨 Dev Tools 
 
-![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,latex,md&theme=dark)
+![Language](https://go-skill-icons.vercel.app/api/icons?i=go,py,latex,md,mysql,mariadb,tidb,redis,milvus,kafka,prometheus,grafana,fastapi,grpc,hugo,jekyll,docker,kubernetes,helm,langchain,llamaindex,huggingface,ollama,pytorch,git,vscode,cursor,vim,apple,linux&theme=dark)
 
-## 🚀 Frameworks & Abilities
-
-![](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,tidb,redis,milvus,kafka,prometheus,grafana,fastapi,grpc,hugo,jekyll,docker,kubernetes,helm&theme=dark) 
-
-## 🤖 AI
-
-![AI](https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,ollama,huggingface,chatgpt,pytorch&theme=dark)  
-
-
-## 🔨 Dev Tools 
-
-![Tool](https://go-skill-icons.vercel.app/api/icons?i=git,vscode,notion,postman,bash,vim,apple,linux,ubuntu,windows&theme=dark)
-
-## Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=simonwei97)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=simonwei97)](https://git.io/streak-stats)-->
 
 ## 🏆 GitHub Trophy
 
