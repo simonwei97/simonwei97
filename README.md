@@ -1,6 +1,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=simonwe97" alt="simonwe97" />
 
-<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Simon Wei. </h2>
+<h2 align="left"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f60e/512.gif" width="30"/> Hi, I’m Simon(Xiaopeng Wei). </h2>
 
 I’m currently a **AI Agent Development Engineer**.
 
