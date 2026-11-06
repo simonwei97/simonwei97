@@ -22,7 +22,7 @@ Misc:
 
 <div align="center">
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/simonwei97/svg?sort=cost&compact=1)](https://tokscale.ai/u/simonwei97)
+[![Tokscale Stats](https://tokscale.ai/api/embed/simonwei97/svg?view=3d&theme=light&compact=1)](https://tokscale.ai/u/simonwei97)
 
 </div>
 
